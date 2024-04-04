@@ -5,6 +5,7 @@ const scroll = new LocomotiveScroll({
   smooth: true,
 });
 
+
 function firstPageAnim() {
   var tl = gsap.timeline();
 
